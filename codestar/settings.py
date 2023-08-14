@@ -31,8 +31,8 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rubem-codestar2023.herokuapp.com',
-                 '8000-rubemjanoni-django-blog-bk83blw5jl.us2.codeanyapp.com']
+ALLOWED_HOSTS = ["rubem-codestar2023.herokuapp.com",
+                 "8000-rubemjanoni-django-blog-bk83blw5jl.us2.codeanyapp.com"]
 
 
 # Application definition
