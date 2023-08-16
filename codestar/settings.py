@@ -32,7 +32,8 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ["rubem-codestar2023.herokuapp.com",
-                 "8000-rubemjanoni-django-blog-bk83blw5jl.us2.codeanyapp.com"]
+                 "8000-rubemjanoni-django-blog-bk83blw5jl.us2.codeanyapp.com",
+                 "https://rubem-codestar2023-2e0bb09a4604.herokuapp.com/"]
 
 
 # Application definition
